@@ -1,0 +1,28 @@
+.section {
+  margin-bottom: 4rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+}
+
+.wrapper {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.toggleText {
+  cursor: pointer;
+  color: var(--color-primary);
+}
+
+.cardswrapper {
+  margin-top: 18px;
+}
